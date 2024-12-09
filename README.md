@@ -73,20 +73,7 @@ MaxPooling Layers: Reduce spatial dimensions.
 Dense Layers: Fully connected layers for regression.
 Output: 30 coordinates representing facial landmarks.
 Model Summary:
-
-Layer (Type)             Output Shape        Param    
-======================================================
-Conv2D                   (96, 96, 32)        320       
-MaxPooling2D             (48, 48, 32)        0         
-Conv2D                   (48, 48, 64)        18496     
-MaxPooling2D             (24, 24, 64)        0         
-Flatten                  (36864)             0         
-Dense                    (128)               4718720   
-Dense                    (30)                3870      
-======================================================
-Total params: 4,737,406
-Trainable params: 4,737,406
-
+![Alt Text](https://cdn.discordapp.com/attachments/1315702512837197862/1315710579167727719/image.png?ex=67586676&is=675714f6&hm=321fb2312a26fcb85c94ee90f67420fbccf3e1b77c17b05c0e075edc9d4d8a18&)
 
 Result:
 ![Alt Text](https://media.discordapp.net/attachments/1315702512837197862/1315702838113861762/Screenshot_2024-12-09_103154.png?ex=67585f41&is=67570dc1&hm=af1012749c51721a11174b87d73a27a048bd9e0047688311caf473757a2c8f72&=&format=webp&quality=lossless&width=628&height=662)
