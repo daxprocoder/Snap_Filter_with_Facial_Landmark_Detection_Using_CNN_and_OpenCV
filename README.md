@@ -94,11 +94,11 @@ Result:
 
 Getting Started
 1. Clone the Repository
-git clone https://github.com/yourusername/facial-landmark-detection.git
+git clone https://github.com/daxprocoder/Snap_Filter_with_Facial_Landmark_Detection_Using_CNN_and_OpenCV.git
 cd facial-landmark-detection
 
 2. Download the Dataset
-Download the Kaggle dataset: ![Kaggle](https://www.kaggle.com/datasets/nagasai524/facial-keypoint-detection/code) or ![Drive](https://drive.google.com/drive/folders/18H1Gtdn7Wvx3T2t9iv60VrsLXB1WLuvB?usp=sharing).
+Download the Kaggle dataset: [Kaggle](https://www.kaggle.com/datasets/nagasai524/facial-keypoint-detection/code) or [Drive](https://drive.google.com/drive/folders/18H1Gtdn7Wvx3T2t9iv60VrsLXB1WLuvB?usp=sharing).
 
 3. Run the Scripts
 Face Detection:
@@ -106,7 +106,7 @@ python testing/facedetect.py
 
 4. Load the model.
 create a folder name and paste the facial_landmark_model.h5 mode in that folder.
-Model download link ![Model link](https://drive.google.com/drive/folders/18H1Gtdn7Wvx3T2t9iv60VrsLXB1WLuvB?usp=sharing)
+Model download link [Model link](https://drive.google.com/drive/folders/18H1Gtdn7Wvx3T2t9iv60VrsLXB1WLuvB?usp=sharing)
 
 6. Run the Scripts
 Face keypoint
